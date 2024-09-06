@@ -20,3 +20,4 @@ Now revoke the certificate by attaching the SHA-256 checksum to ``app/src/main/a
 ````
 ### Demo keystore
 You can verify this works by signing an APK with the demo keystore. The  password for both the keystore and the key is ``androidaps``.
+ 
